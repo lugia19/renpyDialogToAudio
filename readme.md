@@ -14,7 +14,9 @@ After this it will pull a list of all voices available to your elevenlabs accoun
 
 It will then generate the audio files and save them as `{identifier}.mp3`, ready to be used with the auto voice option.
 
-See here [LINK TBA]() for a usage example.
+In case you run out of credits (or the generation of files is interrupted for some other reason) the program will detect that there are existing audio files and will give you the option to skip the ones that already exist.
+
+See [here]() for an installation and usage video.
 
 ## Installation
 
