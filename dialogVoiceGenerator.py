@@ -192,7 +192,7 @@ def create_combobox_gui(list1, list2) -> dict[str, str]:
                 root.quit()
 
     root = tk.Tk()
-    root.title("Combobox GUI")
+    root.title("Assign voices")
     setup_style(root, backgroundColor, buttonBackground, foregroundColor)
 
     n_elements = len(list1)
