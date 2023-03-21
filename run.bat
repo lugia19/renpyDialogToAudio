@@ -1,7 +1,7 @@
 WHERE git
 if %errorlevel% == 0 (
 	if exist ".git" (
-		git pull "TBA"
+		git pull "https://github.com/lugia19/renpyDialogToAudio.git"
 	)
 )
 

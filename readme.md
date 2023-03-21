@@ -18,7 +18,7 @@ See here [LINK TBA]() for a usage example.
 
 ## Installation
 
-1) Download this repo `git clone TBA`
+1) Download this repo `git clone https://github.com/lugia19/renpyDialogToAudio.git`
 2) Open `run.bat`
 
 In case you're not on windows, run.bat just creates a venv and install the requirements from requirements.txt, then runs the script, so you can just do that manually.
